@@ -7,7 +7,7 @@
 
 1. 우선 git을 깔고(https://git-scm.com/), 걍 저장할 폴더 아무거나 만든 다음에 폴더에 우클릭으로 git bash here해서
 
-2. git clone https://github.com/cannonmma/maps.git 하면 git 정보를 포함해서 여기 내용물이 폴더로 복사가 됩니다. (난 600kb/s 정도 나옴 -arta)
+2. git clone https://github.com/cannonmma/maps.git 하면 git 정보를 포함해서 여기 내용물이 폴더로 복사가 됩니다. (난 600kb/s 정도 나옴 -알타)
 
 3. 그러면 배쉬 뜬거에 cd maps해서 들어간다음에 폴더 안에 올리고 싶은 맵 파일을 복붙하고
 
